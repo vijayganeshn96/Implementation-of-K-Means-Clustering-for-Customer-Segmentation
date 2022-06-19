@@ -8,10 +8,15 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import pandas,matplotlib
+2. Read csv file and print data head,info(),isnull()
+3. Import Kmeans and wcss[]
+4. Assign for loop kmeans fit data.
+5. wcss append and plot wcss value
+6. Plot x and y label and plot title.
+7. Predict the y value.
+8. Data cluster and assign cluster values and plot scatter for cluster values.
+9. Stop the program.
 
 ## Program:
 ```
